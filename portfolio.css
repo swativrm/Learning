@@ -1,0 +1,21 @@
+*{
+    background-color: whitesmoke;
+    background-image: url(ppp.jpg);
+}
+
+img
+{
+    display: block; 
+    width: 100%;
+    margin:0 auto;
+}
+
+
+div
+{
+    margin: 0 auto;
+    width: 30%;
+}
+img{
+    
+}

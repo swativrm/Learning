@@ -1,0 +1,21 @@
+*{
+    background-color: papayawhip
+}
+
+#name{
+    font-family: cursive;
+    font-style: bold;
+}
+
+#image{
+    float: left;
+    width: 40%;
+    background-color: peachpuff;
+}
+
+#div2{
+    float: right;
+    width: 40%;
+    height: 300px;
+}
+
